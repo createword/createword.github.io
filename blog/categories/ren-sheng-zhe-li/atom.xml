@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: 人生哲理 | Hack For Blog]]></title>
-  <link href="http://qihaipuchen.github.io/blog/categories/ren-sheng-zhe-li/atom.xml" rel="self"/>
-  <link href="http://qihaipuchen.github.io/"/>
-  <updated>2016-01-15T17:15:03+08:00</updated>
-  <id>http://qihaipuchen.github.io/</id>
+  <link href="http://createword.github.io/blog/categories/ren-sheng-zhe-li/atom.xml" rel="self"/>
+  <link href="http://createword.github.io/"/>
+  <updated>2016-01-16T09:37:05+08:00</updated>
+  <id>http://createword.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[PictureLife]]></title>
-    <link href="http://qihaipuchen.github.io/blog/2016/01/15/picforlife/"/>
+    <link href="http://createword.github.io/blog/2016/01/15/picforlife/"/>
     <updated>2016-01-15T16:56:07+08:00</updated>
-    <id>http://qihaipuchen.github.io/blog/2016/01/15/picforlife</id>
+    <id>http://createword.github.io/blog/2016/01/15/picforlife</id>
     <content type="html"><![CDATA[<p><img src="http://i.imgur.com/kei6Uwz.jpg" alt="看完之后顿悟了" /></p>
 ]]></content>
   </entry>
